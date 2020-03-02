@@ -1,9 +1,6 @@
-{FFC726}Versiunea {660200}0.1b
+{FFC726}Versiunea {660200}1.0 (Release)
 
 {48EB12}-{FAFAFA}Bug fix;
-{48EB12}-{FAFAFA}Informatie adaugatoare despre victima daca se afla intr-o masina;
-{48EB12}-{FAFAFA}Adaugat auto-update;
+{48EB12}-{FAFAFA}FullTrust se va activa daca aveti tasta "W" apasata;
 {48EB12}-{FAFAFA}Imbunatatiri la interfata;
-{48EB12}-{FAFAFA}Adaugat un meniu [/target];
-{48EB12}-{FAFAFA}A aparut optiunea de a activa doar afisarea skin-ului (se face in [/target]);
 
