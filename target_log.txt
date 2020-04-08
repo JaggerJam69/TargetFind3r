@@ -3,4 +3,3 @@
 {48EB12}-{FAFAFA}Optimizari la mod;
 {48EB12}-{FAFAFA}Au fost adaugate 2 comenzi-shortcut [/chit] si [/under];
 {48EB12}-{FAFAFA}Notificarea de la DM nu scoate sniper-ul din mana;
-
