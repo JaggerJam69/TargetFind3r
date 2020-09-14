@@ -1,5 +1,5 @@
-{FFC726}Versiunea {660200}1.3
+{FFC726}Versiunea {660200}1.4
 
-{48EB12}-{FAFAFA}Optimizari la mod;
-{48EB12}-{FAFAFA}Au fost adaugate 2 comenzi-shortcut [/chit] si [/under];
-{48EB12}-{FAFAFA}Notificarea de la DM nu scoate sniper-ul din mana;
+{48EB12}-{FAFAFA}A fost stearsa functia Full-Trust;
+{48EB12}-{FAFAFA}A fost adaugat in fisierul .ini distanta minima de a indeplini un contract
+pentru fiecare rank in parte, facand posibila schimbarea distantei minime (daca vor fi schimbari in regulament).
