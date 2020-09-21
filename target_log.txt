@@ -3,3 +3,8 @@
 {48EB12}-{FAFAFA}A fost stearsa functia Full-Trust;
 {48EB12}-{FAFAFA}A fost adaugat in fisierul .ini distanta minima de a indeplini un contract
 pentru fiecare rank in parte, facand posibila schimbarea distantei minime (daca vor fi schimbari in regulament).
+
+{FFC726}Versiunea {660200}1.4.1
+
+{48EB12}-{FAFAFA}Deseori la [/gethit] dadea crash {FFC726}REZOLVAT
+{48EB12}-{FAFAFA}Optimizari facute la afisarea skin-ului si starea jucatorului.
